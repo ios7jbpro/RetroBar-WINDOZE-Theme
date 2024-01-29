@@ -3,8 +3,8 @@
                     xmlns:system="clr-namespace:System;assembly=mscorlib">
     <system:Boolean x:Key="InvertSystemNotifyIcons">True</system:Boolean>
     
-    <SolidColorBrush x:Key="ButtonHighlight" Color="#ffffff" />
-    <SolidColorBrush x:Key="ButtonInnerHighlight" Color="#ffffff" />
+    <SolidColorBrush x:Key="ButtonHighlight" Color="#dec8df" />
+    <SolidColorBrush x:Key="ButtonInnerHighlight" Color="#dec8df" />
     <SolidColorBrush x:Key="ButtonLight" Color="#dfdfdf" />
     <SolidColorBrush x:Key="ButtonFace" Color="#f7e0fa" />
     <SolidColorBrush x:Key="ButtonShadow" Color="#808080" />
